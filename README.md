@@ -1,4 +1,4 @@
-# ese650
+# ESE650
 ESE650 homework
 - HW0: Warm up, Probaility, Linear Algebra
 - HW1: Bayes Filter
